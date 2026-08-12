@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ttky1o.jambul126.online/sitemap.xml
